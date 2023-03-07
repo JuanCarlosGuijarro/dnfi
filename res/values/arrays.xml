@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+    	<item>@string/apples</item>
+		<item>@string/bananas</item>
+		<item>@string/bread</item>
+		<item>@string/buns</item>
+		<item>@string/butter</item>
+		<item>@string/cake</item>
+		<item>@string/canned</item>
+		<item>@string/celery</item>
+		<item>@string/cheese</item>
+		<item>@string/chips</item>
+		<item>@string/coffee</item>
+		<item>@string/coke</item>
+		<item>@string/cookies</item>
+		<item>@string/cream</item>
+		<item>@string/cucumber</item>
+		<item>@string/cupcakes</item>
+		<item>@string/curd</item>
+		<item>@string/detergent</item>
+		<item>@string/eggs</item>
+		<item>@string/flour</item>
+		<item>@string/ham</item>
+		<item>@string/ice</item>
+		<item>@string/juice</item>
+		<item>@string/lettuce</item>
+		<item>@string/lunch_meat</item>
+		<item>@string/milk</item>
+		<item>@string/mushrooms</item>
+		<item>@string/napkins</item>
+		<item>@string/noodles</item>
+		<item>@string/oranges</item>
+		<item>@string/paper_plates</item>
+		<item>@string/pork</item>
+		<item>@string/poultry</item>
+		<item>@string/pretzels</item>
+		<item>@string/pumpkins</item>
+		<item>@string/rice</item>
+		<item>@string/soap</item>
+		<item>@string/soda</item>
+		<item>@string/soup_on</item>
+		<item>@string/tea</item>
+		<item>@string/tomatoes</item>
+		<item>@string/trash_bags</item>
+		<item>@string/veal</item>
+		<item>@string/water</item>
+		<item>@string/wine</item>
+		<item>@string/yogurt</item>
+		
+				</string-array>
+</resources>

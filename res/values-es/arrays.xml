@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+    	<item>@string/manzanas</item>
+		<item>@string/platanos</item>
+		<item>@string/pan</item>
+		<item>@string/bollos</item>
+		<item>@string/bolsas_de_basura</item>
+		<item>@string/mantequilla</item>
+		<item>@string/pastel</item>
+		<item>@string/latas</item>
+		<item>@string/apio</item>
+		<item>@string/queso</item>
+		<item>@string/patatas_fritas</item>
+		<item>@string/cafe</item>
+		<item>@string/Coca_Cola</item>
+		<item>@string/galletas</item>
+		<item>@string/crema</item>
+		<item>@string/pepino</item>
+		<item>@string/magdalenas</item>
+		<item>@string/nata</item>
+		<item>@string/detergente</item>
+		<item>@string/huevos</item>
+		<item>@string/harina</item>
+		<item>@string/jamon_serrano</item>
+		<item>@string/helado</item>
+		<item>@string/zumo</item>
+		<item>@string/lechuga</item>
+		<item>@string/carne</item>
+		<item>@string/leche</item>
+		<item>@string/champinones</item>
+		<item>@string/panales</item>
+		<item>@string/fideos</item>
+		<item>@string/naranjas</item>
+		<item>@string/servilletas_de_papel</item>
+		<item>@string/jamon_York</item>
+		<item>@string/pollo</item>
+		<item>@string/galletitas</item>
+		<item>@string/peras</item>
+		<item>@string/arroz</item>
+		<item>@string/jabon_lavavajillas</item>
+		<item>@string/jabon_ropa</item>
+		<item>@string/jabon_manos</item>
+		<item>@string/champu</item>
+		<item>@string/gaseosa</item>
+		<item>@string/sopa</item>
+		<item>@string/te</item>
+		<item>@string/tomates</item>
+		<item>@string/ternera</item>
+		<item>@string/agua_mineral</item>
+		<item>@string/vino</item>
+		<item>@string/yogurt</item>
+		<item>@string/espaguetis</item>
+		<item>@string/macarones</item>
+		<item>@string/tomate_frito</item>
+		<item>@string/aceite_de_girasol</item>
+		<item>@string/aceite_de_oliva</item>
+		
+				</string-array>
+</resources>

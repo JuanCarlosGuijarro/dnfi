@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout01"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="6dip"
+    android:paddingTop="4dip" >
+    
+    <TextView
+        android:id="@+id/tv_rownew_name"
+        android:layout_width="172dp"
+        android:layout_height="wrap_content"
+        android:minWidth="230dp" >
+    </TextView>
+	<TextView
+        android:id="@+id/tv_cantity"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content" >
+    </TextView>    
+    <Button
+        android:id="@+id/btrownew_add"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:shadowRadius="5"
+        android:text="@string/plus"
+        android:textSize="30dp"
+        android:textStyle="normal"
+        android:width="80dp" >
+    </Button>
+    <Button
+        android:id="@+id/btrownew_delete"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:shadowRadius="5"
+        android:text="@string/minus"
+        android:textSize="30dp"
+        android:textStyle="normal"
+        android:width="80dp">
+    </Button>
+</LinearLayout>

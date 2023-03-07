@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/btcheckall"
+          android:title="@string/checkall"
+          android:icon="@drawable/btn_check_buttonless_on"
+          >
+    </item>
+    <item android:id="@+id/btuncheckall"
+          android:title="@string/uncheckall"
+          android:icon="@drawable/btn_check_buttonless_off"
+          >
+    </item>
+    <item android:id="@+id/btshare"
+          android:title="@string/share"
+          android:icon="@drawable/ic_menu_share" 
+          >
+    </item>
+</menu>
